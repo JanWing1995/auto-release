@@ -1,0 +1,6 @@
+version: 1.0.5
+releaseDate: '2023-12-28'
+url: https://your-update-server.com/updates/YourAppSetup-1.0.5.exe
+releaseNotes: |
+  - 修复了某个 bug
+  - 增加了新功能
